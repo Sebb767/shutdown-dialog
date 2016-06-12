@@ -14,7 +14,7 @@ Put the following in your rc.lua hotkey section:
 
 `awful.key({ modkey, "Shift" }, "l", awful.util.spawn_with_shell("shutdown-dialog") ),`
 
-Then restart awesome. If everything is set up corretly, <key>Mod</key>+<key>Shift</key>+<key>L</key> should bring up the dialog.
+Then restart awesome. If everything is set up corretly, <kbd>Mod</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd> should bring up the dialog.
 
 ## extending
 
