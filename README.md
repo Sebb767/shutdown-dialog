@@ -6,7 +6,10 @@ A shutdown dialog for WMs without it. Written in pyGTK, this should work on many
 
 ## installation
 
-`# cp shutdown-dialog.py /usr/local/bin/shutdown-dialog`
+```
+# cp shutdown-dialog.py /usr/local/bin/shutdown-dialog
+# chmod 755 /usr/local/bin/shutdown-dialog
+```
 
 ## embedding in awesome wm
 
